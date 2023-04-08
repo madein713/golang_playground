@@ -1,5 +1,8 @@
 
 ### Roadmap 6 month
+
+https://coggle.it/diagram/XrTvExizd3Jz7FSk/t/knowledge-tree
+This is custom roadmap for golang devops eng
 ##### Prerequesites
 1. Repository for tasks from leet code
 
