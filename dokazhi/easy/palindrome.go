@@ -27,13 +27,3 @@ func isPalindromeRight(x int) bool {
 	}
 	return x == reversedNum
 }
-
-func main() {
-	fmt.Println(isPalindrome(12321))
-	fmt.Println(isPalindrome(-121))
-	fmt.Println(isPalindrome(10))
-
-	fmt.Println(isPalindromeRight(12321))
-	fmt.Println(isPalindromeRight(-121))
-	fmt.Println(isPalindromeRight(10))
-}
