@@ -32,9 +32,16 @@ func main() {
 	//fmt.Println(longestCommonPrefix([]string{"flower", "flow", "flight"}))
 	//fmt.Println(longestCommonPrefix([]string{"dog", "racecar", "car"}))
 
-	fmt.Println(isValid("[][][{)]}("))
-	fmt.Println(isValid("()"))
-	fmt.Println(isValid("()[]{}"))
-	fmt.Println(isValid("(]"))
-	fmt.Println(isValid("([)]"), false)
+	//parentheses
+	//fmt.Println(isValid("[][][{)]}("))
+	//fmt.Println(isValid("()"))
+	//fmt.Println(isValid("()[]{}"))
+	//fmt.Println(isValid("(]"))
+	//fmt.Println(isValid("([)]"), false)
+
+	//remove_dupl
+	fmt.Println(removeDuplicates([]int{1, 1, 2}))
+	fmt.Println(removeDuplicates([]int{0, 0, 1, 1, 1, 2, 2, 3, 3, 4}))
+	fmt.Println(removeDuplicates([]int{1}))
+	fmt.Println(removeDuplicates([]int{1, 1}))
 }
