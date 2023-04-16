@@ -24,7 +24,17 @@ func main() {
 	//fmt.Println(reverse(1534236469))
 
 	//romantoint
-	fmt.Printf("III: %d\n", romanToInt("III"))         //3
-	fmt.Printf("LVIII: %d\n", romanToInt("LVIII"))     // 58
-	fmt.Printf("MCMXCIV: %d\n", romanToInt("MCMXCIV")) // 1994
+	//fmt.Printf("III: %d\n", romanToInt("III"))         //3
+	//fmt.Printf("LVIII: %d\n", romanToInt("LVIII"))     // 58
+	//fmt.Printf("MCMXCIV: %d\n", romanToInt("MCMXCIV")) // 1994
+
+	//cmn prefix
+	//fmt.Println(longestCommonPrefix([]string{"flower", "flow", "flight"}))
+	//fmt.Println(longestCommonPrefix([]string{"dog", "racecar", "car"}))
+
+	fmt.Println(isValid("[][][{)]}("))
+	fmt.Println(isValid("()"))
+	fmt.Println(isValid("()[]{}"))
+	fmt.Println(isValid("(]"))
+	fmt.Println(isValid("([)]"), false)
 }

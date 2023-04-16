@@ -3,7 +3,7 @@
 2. [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 3. [X] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 4. [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-5. [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+5. [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 6. [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 7. [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 8. [ ] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
