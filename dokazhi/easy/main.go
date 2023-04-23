@@ -40,8 +40,15 @@ func main() {
 	//fmt.Println(isValid("([)]"), false)
 
 	//remove_dupl
-	fmt.Println(removeDuplicates([]int{1, 1, 2}))
-	fmt.Println(removeDuplicates([]int{0, 0, 1, 1, 1, 2, 2, 3, 3, 4}))
-	fmt.Println(removeDuplicates([]int{1}))
-	fmt.Println(removeDuplicates([]int{1, 1}))
+	//fmt.Println(removeDuplicates([]int{1, 1, 2}))
+	//fmt.Println(removeDuplicates([]int{0, 0, 1, 1, 1, 2, 2, 3, 3, 4}))
+	//fmt.Println(removeDuplicates([]int{1}))
+	//fmt.Println(removeDuplicates([]int{1, 1}))
+
+	//strStr
+	fmt.Println(strStr("sadbutsad", "sad"))
+	fmt.Println(strStr("leetcode", "leeto"))
+	fmt.Println(strStr("hello", "ll"))
+	fmt.Println(strStr("mississippi", "issipi"))
+	fmt.Println(strStr("a", "a"))
 }

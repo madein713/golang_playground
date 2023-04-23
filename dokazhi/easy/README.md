@@ -6,7 +6,7 @@
 5. [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 6. [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 7. [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-8. [ ] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+8. [x] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 9. [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 10. [ ] [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 11. [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
