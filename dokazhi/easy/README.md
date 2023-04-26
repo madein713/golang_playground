@@ -8,7 +8,7 @@
 7. [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 8. [x] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 9. [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-10. [ ] [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+10. [x] [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 11. [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 12. [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 13. [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)

@@ -46,9 +46,11 @@ func main() {
 	//fmt.Println(removeDuplicates([]int{1, 1}))
 
 	//strStr
-	fmt.Println(strStr("sadbutsad", "sad"))
-	fmt.Println(strStr("leetcode", "leeto"))
-	fmt.Println(strStr("hello", "ll"))
-	fmt.Println(strStr("mississippi", "issipi"))
-	fmt.Println(strStr("a", "a"))
+	//fmt.Println(strStr("sadbutsad", "sad"))
+	//fmt.Println(strStr("leetcode", "leeto"))
+	//fmt.Println(strStr("hello", "ll"))
+	//fmt.Println(strStr("mississippi", "issipi"))
+	//fmt.Println(strStr("a", "a"))
+	fmt.Println(lengthOfLastWord("Hello World"))
+	fmt.Println(lengthOfLastWord("   fly me   to   the moon  "))
 }
