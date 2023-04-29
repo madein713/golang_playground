@@ -51,6 +51,8 @@ func main() {
 	//fmt.Println(strStr("hello", "ll"))
 	//fmt.Println(strStr("mississippi", "issipi"))
 	//fmt.Println(strStr("a", "a"))
-	fmt.Println(lengthOfLastWord("Hello World"))
-	fmt.Println(lengthOfLastWord("   fly me   to   the moon  "))
+	//fmt.Println(lengthOfLastWord("Hello World"))
+	//fmt.Println(lengthOfLastWord("   fly me   to   the moon  "))
+	fmt.Println("is:", climbStairs(6), "shoukd:", 13)
+	fmt.Println("is:", climbStairs(5), "should:", 8)
 }
